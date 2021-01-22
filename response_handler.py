@@ -1,8 +1,10 @@
 # This code was developed to regularly check the responses from user at my site "https://imshawan.netlify.app/"
-# Author: Shawan Mandal
-# Date: 22-01-2021
+# The main aim of this code is to Generate the response dataframe of my site's backend
 #
+#               Author: Shawan Mandal
+#               Date: 22-01-2021
 #
+
 
 
 import json
