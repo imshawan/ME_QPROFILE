@@ -1,4 +1,4 @@
-# Profile FE
+# Profile FrontEnd
 
 ## Testing
 
